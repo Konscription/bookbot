@@ -2,4 +2,4 @@
 boot.dev project
 
 
-BookBot is my first boot.dev git project.
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
